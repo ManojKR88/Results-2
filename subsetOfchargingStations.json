@@ -1,0 +1,208 @@
+{
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "Unique_ID": "station_7500",
+                "circles": "circle_1|circle_2|circle_11|circle_14|circle_59|circle_60|circle_61|circle_62|circle_63|circle_66|circle_67|circle_69|circle_73|circle_75|circle_76|circle_77|circle_78|circle_81|circle_83|circle_101|circle_102|circle_103|circle_110|circle_113|circle_117|circle_118|circle_119|circle_120|circle_121|circle_122|circle_123|circle_124|circle_125|circle_127|circle_131|circle_133|circle_134|circle_136|circle_166|circle_167|circle_169|circle_178|circle_182|circle_187|circle_189|circle_190|circle_191|circle_192|circle_195|circle_196|circle_200|circle_205|circle_206|circle_207|circle_208|circle_209|circle_210|circle_214|circle_216|circle_220|circle_221|circle_222|circle_223|circle_224|circle_226|circle_227|circle_228"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.129,
+                    28.699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unique_ID": "station_6632",
+                "circles": "circle_3|circle_4|circle_6|circle_7|circle_8|circle_9|circle_12|circle_13|circle_18|circle_19|circle_21|circle_24|circle_25|circle_31|circle_36|circle_37|circle_38|circle_39|circle_41|circle_42|circle_44|circle_47|circle_49|circle_52|circle_55|circle_58|circle_85|circle_86|circle_88|circle_91|circle_92|circle_93|circle_94|circle_95|circle_96|circle_99|circle_100|circle_108|circle_109|circle_112|circle_116|circle_139|circle_140|circle_141|circle_144|circle_145|circle_157|circle_158|circle_160|circle_163|circle_164|circle_188|circle_199|circle_201|circle_204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.229,
+                    28.659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unique_ID": "station_4619",
+                "circles": "circle_23|circle_33|circle_46|circle_64|circle_65|circle_68|circle_71|circle_82|circle_84|circle_90|circle_98|circle_104|circle_105|circle_111|circle_115|circle_126|circle_129|circle_130|circle_137|circle_138|circle_162|circle_172|circle_173|circle_176|circle_177|circle_179|circle_180|circle_181|circle_184|circle_185|circle_211|circle_212|circle_215|circle_217|circle_218|circle_229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.154,
+                    28.569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unique_ID": "station_4598",
+                "circles": "circle_15|circle_16|circle_20|circle_22|circle_45|circle_87|circle_89|circle_147|circle_150|circle_151|circle_155|circle_156|circle_159|circle_161|circle_202|circle_231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.049,
+                    28.569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unique_ID": "station_9608",
+                "circles": "circle_26|circle_32|circle_70|circle_74|circle_80|circle_106|circle_128|circle_132|circle_135|circle_148|circle_152|circle_153|circle_213|circle_219|circle_225"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.124,
+                    28.794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unique_ID": "station_4866",
+                "circles": "circle_43|circle_48|circle_51|circle_54|circle_57|circle_193|circle_194|circle_198|circle_203"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.279,
+                    28.579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unique_ID": "station_2507",
+                "circles": "circle_17|circle_40|circle_72|circle_114|circle_143|circle_183|circle_230|circle_232"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.139,
+                    28.474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unique_ID": "station_6267",
+                "circles": "circle_0|circle_1|circle_2|circle_11|circle_15|circle_16|circle_78|circle_79|circle_87|circle_146|circle_149|circle_150|circle_159|circle_161|circle_166|circle_167|circle_168|circle_169|circle_170|circle_171|circle_178|circle_182|circle_186|circle_191|circle_223|circle_224"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.069,
+                    28.644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unique_ID": "station_6960",
+                "circles": "circle_3|circle_4|circle_6|circle_7|circle_8|circle_9|circle_12|circle_13|circle_14|circle_25|circle_27|circle_28|circle_29|circle_30|circle_31|circle_34|circle_35|circle_36|circle_37|circle_38|circle_39|circle_41|circle_42|circle_52|circle_58|circle_73|circle_92|circle_93|circle_94|circle_95|circle_96|circle_99|circle_100|circle_108|circle_109|circle_110|circle_112|circle_116|circle_122|circle_123|circle_131|circle_145|circle_164|circle_188|circle_199|circle_201|circle_204"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.204,
+                    28.674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unique_ID": "station_7483",
+                "circles": "circle_0|circle_5|circle_107|circle_133|circle_134|circle_149|circle_154|circle_166|circle_167|circle_168|circle_169|circle_174|circle_175|circle_178|circle_182"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.044,
+                    28.699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unique_ID": "station_2920",
+                "circles": "circle_50|circle_56|circle_97|circle_142"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.984,
+                    28.494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unique_ID": "station_9818",
+                "circles": "circle_53|circle_135|circle_153|circle_165"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.064,
+                    28.804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unique_ID": "station_2721",
+                "circles": "circle_151|circle_183|circle_197|circle_202"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.099,
+                    28.484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "Unique_ID": "station_5362",
+                "circles": "circle_10|circle_20|circle_45|circle_87|circle_89|circle_146|circle_231"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.984,
+                    28.604
+                ]
+            }
+        }
+    ],
+    "type": "FeatureCollection",
+    "name": "deadBatteryPoints",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}
